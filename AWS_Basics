@@ -1,3 +1,4 @@
+
 ************************************************************************************
 SUBNET:
 	https://en.wikipedia.org/wiki/IPv4_subnetting_reference
@@ -10,4 +11,7 @@ AWS: - Difference between Elastic, Public & Private IP
 	https://www.youtube.com/watch?v=MTBR9jyD5RM
 AWS: - Elastic IP 
 	https://www.youtube.com/watch?v=mgfpduy5ZAo
+	
+AWS: - Amazon AWS VPC, Subnet, Routing Table & IGW 
+	https://www.youtube.com/watch?v=CP7yd7nOb5Q
 *************************************************************************************
