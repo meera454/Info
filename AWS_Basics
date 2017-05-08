@@ -1,4 +1,3 @@
-
 ************************************************************************************
 SUBNET:
 	https://en.wikipedia.org/wiki/IPv4_subnetting_reference
@@ -14,4 +13,10 @@ AWS: - Elastic IP
 	
 AWS: - Amazon AWS VPC, Subnet, Routing Table & IGW 
 	https://www.youtube.com/watch?v=CP7yd7nOb5Q
+
+- "AWS VPC with Private Subnet and NAT Instance and Private Instance"
+	https://www.youtube.com/watch?v=_iCGwkw-aE8
+
+- "How to use a NAT Gateway for Internet Access from Private Subnet in AWS VPC"
+	https://www.youtube.com/watch?v=KGOI7IWQFks#t=76.157472
 *************************************************************************************
