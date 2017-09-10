@@ -20,3 +20,5 @@ AWS: - Amazon AWS VPC, Subnet, Routing Table & IGW
 - "How to use a NAT Gateway for Internet Access from Private Subnet in AWS VPC"
 	https://www.youtube.com/watch?v=KGOI7IWQFks#t=76.157472
 *************************************************************************************
+- "Amazon EBS Volume & How to create EBS snapshot / AMI & restore?"
+	https://www.youtube.com/watch?v=QAyHOVf17AY
