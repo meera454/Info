@@ -22,3 +22,6 @@ AWS: - Amazon AWS VPC, Subnet, Routing Table & IGW
 *************************************************************************************
 - "Amazon EBS Volume & How to create EBS snapshot / AMI & restore?"
 	https://www.youtube.com/watch?v=QAyHOVf17AY
+	
+  " AWS Storage - S3 vs EBS vs EFS - When to use? " : siple diff b/w EBS/S3/EFS 	
+	https://www.youtube.com/watch?v=m9mKzdBE90I
