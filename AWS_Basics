@@ -25,3 +25,9 @@ AWS: - Amazon AWS VPC, Subnet, Routing Table & IGW
 	
   " AWS Storage - S3 vs EBS vs EFS - When to use? " : siple diff b/w EBS/S3/EFS 	
 	https://www.youtube.com/watch?v=m9mKzdBE90I
+
+  " AWS S3 - Bucket, Objects, Versioning, Bucket Policy, LifeCycle, Storage Classes"
+	https://www.youtube.com/watch?v=mt32JEAxrA4
+	
+ AWS - S3 & CLI - Bucket Policy Demo for Cross-account access with IAM user
+	https://www.youtube.com/watch?v=DH47Pu2DQBU
